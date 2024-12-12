@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+vendor/
+.env
+
+# Compiled output
+dist/
+build/
+*.class
+*.pyc
+__pycache__/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Build and package files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Testing and coverage
+coverage/
+.nyc_output/
+.pytest_cache/
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
